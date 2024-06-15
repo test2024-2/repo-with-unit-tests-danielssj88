@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Taller1Suma {
     public static int sumar(int a, int b){
-        return a - b;
+        return a + b;
     }
 
     public static void main(String[] args) {
